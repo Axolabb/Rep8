@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+#head {
+    color: aliceblue;
+    height: 100px;
+    background-color: rgb(14, 22, 51); 
+}
+.img {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    border-radius: 25px;
+    padding: 25px;
+    margin: 15px;
+    margin-left: 40vh;
+    cursor: pointer;
+}
+.Menu {
+    display: inline-block;
+    padding: 35px;
+}
+#nav {
+    padding-left: 110vh;
+}
+.b {
+    cursor: pointer;
+    font-size: 20px;
+}
+.auth {
+    background-color: aliceblue;
+    border-radius: 50px;
+    height: 25px;
+    color: black;
+    padding-top: 15px;
+}
+#bg {
+    height: 600px;
+    background-size: cover;
+    mask-repeat: no-repeat;
+}
+.Zag {
+    color: white;
+    font-size: 50px;
+    
+    padding-top: 100px;
+    text-align: center;
+}
+.text {
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0.2px black;
+}
+
+#bt {
+    color: rgb(157, 157, 255);
+    -webkit-text-stroke: 0.2px black;
+}
+
+#podz {
+    padding-left: 35vh;
+    padding-top: 60px;
+}
+#podzt {
+    padding-top: 20px;
+}
+#Butt1 {
+    background: linear-gradient(90deg, rgb(51, 174, 255) 0%, #00335e 179.25%);
+    height: 60px;
+    width: 300px;
+    border-radius: 35px;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.buttons {
+    position: absolute;
+    padding-left: 120vh;
+    top: 340px;
+    font-size: 20px;
+}
+#bg1 {
+    background-color: rgb(14, 22, 51);
+    height: 1000px;
+}
+.ed { 
+    text-align: center;
+}
+.ZS2 {
+    height: 150px;
+    width: 300px;
+    background-color: rgb(85, 185, 252);
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: 15px;
+    display: inline-block;
+}
+.objects {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#bg2 {
+    background-color: rgb(18, 28, 61);
+    height: 390px;
+}
